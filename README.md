@@ -19,6 +19,8 @@ Mi pasión por la investigación y la gestión de proyectos me ha llevado a aden
 - Desarrollo Web Frontend
 - Lenguajes: JavaScript, CSS, HTML
 - Metodología: Scrum 📊
+- Testing funcional 
+- Figma
 - Control de Versiones: Git y GitHub 🐱
 
 ## Experiencia Profesional 💼
