@@ -7,7 +7,6 @@
 ## Contacto 📞📧
 
 - Ubicación: Colombia, Fusagasugá
-- Teléfono: 📞 +57 3138851345
 - Correo Electrónico: 📧 lorebarr120@gmail.com
 - LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/lorenabarrera) 👩‍🔬
 - GitHub: [Mi perfil de GitHub](https://github.com/LorenaBarr) 🚀
