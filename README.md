@@ -22,7 +22,7 @@ Mi pasión por la investigación y la gestión de proyectos me ha llevado a aden
 - Metodología: Scrum 📊
 - Testing funcional 
 - Figma
-- Control de Versiones: Git y GitHub 🐱
+- Control de Versiones: Git 🐱
 
 ## Experiencia Profesional 💼
 
