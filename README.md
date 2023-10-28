@@ -1,111 +1,110 @@
+# About Me 👩‍💻
 
+Hello! I am **Karen Lorena Barrera Páez**, a 🚀 **Software Developer** from 🇨🇴 Colombia, with a strong background in education with an emphasis on social sciences and a deep interest in technology.
 
-# Sobre mí 👩‍💻
+## Contact 📞📧
 
-¡Hola! Soy **Karen Lorena Barrera Páez**, una 🚀 **Software Developer** de 🇨🇴 Colombia, con una sólida formación en educación con énfasis en ciencias sociales y un profundo interés por la tecnología.
+- Location: Colombia, Fusagasugá
+- Email: 📧 lorebarr120@gmail.com
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/lorenabarrera) 👩‍🔬
+- GitHub: [My GitHub Profile](https://github.com/LorenaBarr) 🚀
 
-## Contacto 📞📧
+## Professional Profile 🌟
 
-- Ubicación: Colombia, Fusagasugá
-- Correo Electrónico: 📧 lorebarr120@gmail.com
-- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/lorenabarrera) 👩‍🔬
-- GitHub: [Mi perfil de GitHub](https://github.com/LorenaBarr) 🚀
+My passion for research and project management has led me to delve into the exciting world of technology, especially in web development. I am committed to continuous learning and eager to acquire new technical and cross-functional skills while engaging in practical projects.
 
-## Perfil Profesional 🌟
+## Technical Skills 💻
 
-Mi pasión por la investigación y la gestión de proyectos me ha llevado a adentrarme en el emocionante mundo de la tecnología, especialmente en el desarrollo web. Estoy comprometida con el aprendizaje constante y ansiosa por adquirir nuevas habilidades técnicas y transversales mientras me sumerjo en proyectos prácticos.
-
-## Habilidades Técnicas 💻
-
-- Desarrollo Web Frontend
-- Lenguajes: JavaScript, CSS, HTML
-- Metodología: Scrum 📊
-- Testing funcional 
+- Frontend Web Development
+- Languages: JavaScript, CSS, HTML
+- Methodology: Scrum 📊
+- Functional Testing
 - Figma
-- Control de Versiones: Git 🐱
+- Version Control: Git 🐱
 
-## Experiencia Profesional 💼
+## Professional Experience 💼
 
-**LABORATORIA | Julio 2023 - Actualidad**
+**LABORATORIA | July 2023 - Present**
 
-Proyectos:
+Projects:
 - Social Network
 - Data Lovers
 - Cipher
 - Trivia
 
-Funciones:
-- Desarrollo de aplicaciones web utilizando HTML, CSS y JavaScript.
-- Implementación de funcionalidades de cifrado, filtrado, ordenamiento y autenticación.
-- Trabajo en equipo siguiendo la metodología Scrum.
-- Manejo de Git y GitHub.
+Roles:
+- Development of web applications using HTML, CSS, and JavaScript.
+- Implementation of encryption, filtering, sorting, and authentication functionalities.
+- Teamwork following the Scrum methodology.
+- Git and GitHub management.
 
-Logros destacados:
-- Diseño de una red social tipo SPA con Firebase que permite crear perfiles y publicar contenido.
-- Creación de una página de filtrado de datos sobre Pokémon utilizando un archivo JSON.
-- Desarrollo de una aplicación de cifrado César con funciones y métodos.
-- Construcción de una trivia de datos curiosos sobre animales.
+Notable Achievements:
+- Design of a single-page application (SPA) social network with Firebase that allows creating profiles and posting content.
+- Creation of a data filtering page for Pokémon using a JSON file.
+- Development of a Caesar cipher application with functions and methods.
+- Construction of a trivia game with fun facts about animals.
 
-**LICEO AMERICANO | Febrero 2020 - Junio 2023**
+**LICEO AMERICANO | February 2020 - June 2023**
 
-- Docente de Ciencias Políticas y Sociales.
-- Diseño de mallas curriculares adaptables.
-- Planificación de clases innovadoras.
-- Dirección de cursos y progreso académico.
-- Creación de material didáctico interactivo.
-- Administración de evaluaciones y ajuste curricular.
-- Seguimiento individualizado a estudiantes y planes de apoyo.
+- Teacher of Political and Social Sciences.
+- Design of adaptable curricular frameworks.
+- Innovative lesson planning.
+- Course and academic progress management.
+- Creation of interactive teaching materials.
+- Administration of assessments and curriculum adjustments.
+- Individualized student monitoring and support plans.
 
-Logros destacados:
-- Reconocimiento por disciplina, organización y capacidad para cumplir objetivos de manera efectiva.
-- Contribución en la creación de folletos, presentaciones y material didáctico para eventos académicos y culturales.
-- Desempeño como Sublíder de Nivel durante la pandemia, supervisando guías de estudio.
-- Implementación de estrategias creativas e innovadoras en el aula, incluyendo material inclusivo.
+Notable Achievements:
+- Recognition for discipline, organization, and effective goal achievement.
+- Contribution to the creation of brochures, presentations, and teaching materials for academic and cultural events.
+- Performance as a Level Sub-Leader during the pandemic, overseeing study guides.
+- Implementation of creative and innovative strategies in the classroom, including inclusive materials.
 
-## Educación 📚
+## Education 📚
 
-- Universidad de Cundinamarca | Licenciatura en básica con énfasis en ciencias sociales, 2016
+- Universidad de Cundinamarca | Bachelor's Degree in Basic Education with an Emphasis on Social Sciences, 2016
 
-## Educación Complementaria 📖
+## Additional Education 📖
 
-- LABORATORIA | Julio - Diciembre 2023: Bootcamp intensivo de 6 meses en programación web.
-- UTN BA - INCLUYEME | Agosto-Noviembre 2023: Curso de testing funcional con enfoque en accesibilidad.
-- SENA | 2022: Técnico en producción multimedia.
+- LABORATORIA | July - December 2023: Intensive 6-month web programming bootcamp.
+- UTN BA - INCLUYEME | August-November 2023: Functional testing course with a focus on accessibility.
+- SENA | 2022: Technical degree in multimedia production.
 
-## Competencias 🚀
+## Skills 🚀
 
 - HTML
 - CSS
 - JavaScript
-- Control de Versiones
+- Version Control
 - Responsive Design
 - Testing
 - Scrum
-- Gestión de Proyectos
+- Project Management
 - Figma
-- Comunicación efectiva
-- Trabajo en equipo 🤝
-- Resolución de problemas
-- Gestión del tiempo ⏰
-- Adaptabilidad
-- Pensamiento crítico 🤔
-- Creatividad
-- Autoaprendizaje 📚
+- Effective Communication
+- Teamwork 🤝
+- Problem Solving
+- Time Management ⏰
+- Adaptability
+- Critical Thinking 🤔
+- Creativity
+- Self-learning 📚
 
-## Idiomas 🌍
+## Languages 🌍
 
-- Inglés B1 🇬🇧
-- Castellano nativo 🇨🇴
-- 
-## Intereses Personales 🌟
+- English B1 🇬🇧
+- Native Spanish 🇨🇴
 
-- 🔭 Actualmente estoy trabajando en mi formación, autoaprendizaje y puliendo habilidades técnicas.
-- 👯 Busco colaborar en proyectos libres, mentorías y asesorías.
-- 🤔 Estoy buscando ayuda con la búsqueda de empleo.
-- 💬 Pregúntame sobre cómo cambié de carrera.
-- 📫 Cómo contactarme: LinkedIn, WhatsApp
-- 😄 Pronombres: Lo, haru, loris, lolo
-- ⚡ Dato curioso: Me gusta el anime, la tecnología y los videojuegos.
+## Personal Interests 🌟
+
+- 🔭 Currently, I am working on self-improvement, self-learning, and refining technical skills.
+- 👯 I am looking to collaborate on open-source projects, mentoring, and consultancy.
+- 🤔 I am seeking assistance with job hunting.
+- 💬 Ask me about how I transitioned to this career.
+- 📫 How to contact me: LinkedIn, WhatsApp
+- 😄 Pronouns: Lo, haru, loris, lolo
+- ⚡ Fun fact: I enjoy anime, technology, and video games.
+
 
 # 💫 About Me:
 Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 Colombia, with a strong background in education with an emphasis on social sciences and a deep interest in technology.
