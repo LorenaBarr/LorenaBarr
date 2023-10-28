@@ -108,7 +108,7 @@ Logros destacados:
 - ⚡ Dato curioso: Me gusta el anime, la tecnología y los videojuegos.
 
 # 💫 About Me:
-Hola soy lorena, software deloveper.
+Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 Colombia, with a strong background in education with an emphasis on social sciences and a deep interest in technology.
 
 
 ## 🌐 Socials:
