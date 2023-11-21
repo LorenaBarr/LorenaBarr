@@ -136,7 +136,7 @@ Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 
 [![](https://visitcount.itsvg.in/api?id=LorenaBarr&icon=4&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/@kalo118](https://paypal.me/kalo118?country.x=CO&locale.x=es_XC)) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/@kalo118]([https://paypal.me/kalo118?country.x=CO&locale.x=es_XC](https://paypal.me/kalo118?country.x=CO&locale.x=es_XC) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
