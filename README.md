@@ -16,7 +16,7 @@ My passion for research and project management has led me to delve into the exci
 ## Technical Skills 💻
 
 - Frontend Web Development
-- Languages: JavaScript, CSS, HTML
+- Languages: JavaScript, Java, CSS, HTML, React.
 - Methodology: Scrum 📊
 - Functional Testing
 - Figma
@@ -26,17 +26,37 @@ My passion for research and project management has led me to delve into the exci
 
 **LABORATORIA | July 2023 - Present**
 
-Projects:
-- Social Network
-- Data Lovers
-- Cipher
-- Trivia
+## Movie Api
+- Development of an interactive web application with React and JSX.
+- Data consumption from an external movie API.
+- Implementation of movie search and filtering.
+- Creation of reusable components in React.
 
-Roles:
-- Development of web applications using HTML, CSS, and JavaScript.
-- Implementation of encryption, filtering, sorting, and authentication functionalities.
-- Teamwork following the Scrum methodology.
-- Git and GitHub management.
+## MdLinks
+- Creation of a command-line tool (CLI) in Node.js.
+- Analysis of Markdown files to identify links.
+- Reporting on the status of links (active or broken).
+- Use of Axios for HTTP requests.
+
+## Social Network
+- Development of a social network (SPA) with registration, login, and posting functionalities.
+- Real-time data management with Firebase.
+- Implementation of CRUD (Create, Read, Update, Delete) for posts.
+- Responsive design with HTML and CSS.
+- Application of security concepts in user authentication.
+
+## Data Lovers
+- Creation of an interactive web interface to visualize Pokémon data.
+- Implementation of filtering and sorting.
+- Use of HTML, CSS, and JavaScript (ES6).
+- User-centered design with Figma.
+
+## Cipher
+- Creation of a web application for encrypting and decrypting messages using the Caesar cipher.
+- Development of encryption and decryption logic in JavaScript (ES6).
+- Interactive interface with HTML and CSS.
+- Handling DOM events and dynamic content manipulation.
+- Integration of version control with Git and deployment on GitHub Pages.
 
 Notable Achievements:
 - Design of a single-page application (SPA) social network with Firebase that allows creating profiles and posting content.
