@@ -133,7 +133,7 @@ Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//lorena-barrera) 
 
-[![Twitter](img/twitter-logo.png)](https://twitter.com/LorenaBarr82483)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/LorenaBarr82483)
 
 [![Facebook](img/facebook-logo.png)](https://www.facebook.com/kalorBarrera)
 
