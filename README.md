@@ -157,6 +157,8 @@ Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 
 
   ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kalo118?country.x=CO&locale.x=es_XC)
+[¡Apóyame comprándome un café ☕️!](https://www.buymeacoffee.com/kitlolo)
+
 
 
   
