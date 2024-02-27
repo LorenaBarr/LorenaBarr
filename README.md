@@ -6,7 +6,8 @@ Hello! I am **Karen Lorena Barrera Páez**, a 🚀 **Software Developer** from �
 
 - Location: Colombia, Fusagasugá
 - Email: 📧 lorebarr120@gmail.com
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/lorena-barrera-developer-frontend-web) 👩‍🔬
+- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/lorena-barrera-developer-frontend-web/) 
+
 - GitHub: [My GitHub Profile](https://github.com/LorenaBarr) 🚀
 
 ## Professional Profile 🌟
