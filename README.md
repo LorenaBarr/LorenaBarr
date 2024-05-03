@@ -137,10 +137,10 @@ Hello! I am Karen Lorena Barrera Páez, a 🚀 Software Developer from 🇨🇴 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/LoreBarr0)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/kalorBarrera](https://www.facebook.com/lorenabarrerafrontenddev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lorenabarrerafrontenddev)
 
-[![Discord]([https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white](https://img.shields.io/discord/:serverId
-))]([https://twitter.com/LoreBarr0](http://discordapp.com/users/lo_lo3)
+[![Discord](https://img.shields.io/discord/:serverId)](https://img.shields.io/discord/:serverId)
+
 
 
 
