@@ -1,5 +1,22 @@
 # 💫 About Me:
-Soy una desarrolladora web con enfoque en educación y ciencias sociales, apasionada por la tecnología. He adquirido habilidades en JavaScript, HTML, CSS, React, Angular, Node.js, Java, Tailwind CSS y testing QA a través del bootcamp de Laboratoria, además de aprender Java en TalentoTech. Actualmente, sigo ampliando mis conocimientos en frameworks como Vue.js, Astro, bases de datos y programación backend con Node.js, Express, Java y Spring Boot. Me gusta poner en práctica estos conocimientos en proyectos desafiantes y seguir creciendo profesionalmente.
+👩‍💻 Soy una desarrolladora web apasionada por la tecnología, con un enfoque en la educación y las ciencias sociales.
+💡 Mi trayectoria profesional está impulsada por una pasión por la investigación, la gestión de proyectos y la resolución de problemas mediante el desarrollo de software.
+
+🔧 Tecnologías y herramientas
+✅ HTML, CSS, JavaScript, React, Angular, Node.js
+✅ Bases de datos relacionales (MySQL, PostgreSQL)
+✅ Metodologías ágiles como Scrum
+✅ Diseño UX/UI
+
+🎯 Habilidades clave
+✨ Gestión de proyectos
+✨ Comunicación efectiva
+✨ Trabajo en equipo
+✨ Resolución de problemas
+✨ Gestión del tiempo
+✨ Adaptabilidad
+
+🚀 Me motiva el aprendizaje continuo, explorando nuevas herramientas y oportunidades para enriquecer mis proyectos y experiencia, siempre guiada por la creatividad ✨ y el pensamiento crítico 🧠.
 
 
 ## 🌐 Socials:
